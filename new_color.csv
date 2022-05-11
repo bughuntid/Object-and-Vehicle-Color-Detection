@@ -1,0 +1,554 @@
+indian red,indian red,#B0171F,176,23,31
+crimson,crimson,#DC143C,220,20,60
+lightpink,lightpink,#FFB6C1,255,182,193
+lightpink,lightpink,#FFAEB9,255,174,185
+lightpink,lightpink,#EEA2AD,238,162,173
+lightpink,lightpink,#CD8C95,205,140,149
+lightpink,lightpink,#8B5F65,139,95,101
+pink,pink,#FFC0CB,255,192,203
+pink,pink,#FFB5C5,255,181,197
+pink,pink,#EEA9B8,238,169,184
+pink,pink,#CD919E,205,145,158
+pink,pink,#8B636C,139,99,108
+palevioletred,palevioletred,#DB7093,219,112,147
+palevioletred,palevioletred,#FF82AB,255,130,171
+palevioletred,palevioletred,#EE799F,238,121,159
+palevioletred,palevioletred,#CD6889,205,104,137
+palevioletred,palevioletred,#8B475D,139,71,93
+lavenderblush 1 (lavenderblush),lavenderblush 1 (lavenderblush),#FFF0F5,255,240,245
+lavenderblush 1 (lavenderblush),lavenderblush 1 (lavenderblush),#EEE0E5,238,224,229
+lavenderblush 1 (lavenderblush),lavenderblush 1 (lavenderblush),#CDC1C5,205,193,197
+lavenderblush 1 (lavenderblush),lavenderblush 1 (lavenderblush),#8B8386,139,131,134
+violetred 1,violetred 1,#FF3E96,255,62,150
+violetred 2,violetred 2,#EE3A8C,238,58,140
+violetred 3,violetred 3,#CD3278,205,50,120
+violetred 4,violetred 4,#8B2252,139,34,82
+hotpink,hotpink,#FF69B4,255,105,180
+hotpink,hotpink,#FF6EB4,255,110,180
+hotpink,hotpink,#EE6AA7,238,106,167
+hotpink,hotpink,#CD6090,205,96,144
+hotpink,hotpink,#8B3A62,139,58,98
+raspberry,raspberry,#872657,135,38,87
+deeppink 1 (deeppink),deeppink 1 (deeppink),#FF1493,255,20,147
+deeppink 2,deeppink 2,#EE1289,238,18,137
+deeppink 3,deeppink 3,#CD1076,205,16,118
+deeppink 4,deeppink 4,#8B0A50,139,10,80
+maroon,maroon,#FF34B3,255,52,179
+maroon,maroon,#EE30A7,238,48,167
+maroon,maroon,#CD2990,205,41,144
+maroon,maroon,#8B1C62,139,28,98
+mediumvioletred,mediumvioletred,#C71585,199,21,133
+violetred,violetred,#D02090,208,32,144
+orchid,orchid,#DA70D6,218,112,214
+orchid,orchid,#FF83FA,255,131,250
+orchid,orchid,#EE7AE9,238,122,233
+orchid,orchid,#CD69C9,205,105,201
+orchid,orchid,#8B4789,139,71,137
+thistle,thistle,#D8BFD8,216,191,216
+thistle,thistle,#FFE1FF,255,225,255
+thistle,thistle,#EED2EE,238,210,238
+thistle,thistle,#CDB5CD,205,181,205
+thistle,thistle,#8B7B8B,139,123,139
+plum,plum,#FFBBFF,255,187,255
+plum,plum,#EEAEEE,238,174,238
+plum,plum,#CD96CD,205,150,205
+plum,plum,#8B668B,139,102,139
+plum,plum,#DDA0DD,221,160,221
+violet,violet,#EE82EE,238,130,238
+magenta (fuchsia*),magenta (fuchsia*),#FF00FF,255,0,255
+magenta 2,magenta 2,#EE00EE,238,0,238
+magenta 3,magenta 3,#CD00CD,205,0,205
+magenta 4 (darkmagenta),magenta 4 (darkmagenta),#8B008B,139,0,139
+purple*,purple*,#800080,128,0,128
+mediumorchid,mediumorchid,#BA55D3,186,85,211
+mediumorchid 1,mediumorchid 1,#E066FF,224,102,255
+mediumorchid 2,mediumorchid 2,#D15FEE,209,95,238
+mediumorchid 3,mediumorchid 3,#B452CD,180,82,205
+mediumorchid 4,mediumorchid 4,#7A378B,122,55,139
+darkviolet,darkviolet,#9400D3,148,0,211
+darkorchid,darkorchid,#9932CC,153,50,204
+darkorchid 1,darkorchid 1,#BF3EFF,191,62,255
+darkorchid 2,darkorchid 2,#B23AEE,178,58,238
+darkorchid 3,darkorchid 3,#9A32CD,154,50,205
+darkorchid 4,darkorchid 4,#68228B,104,34,139
+indigo,indigo,#4B0082,75,0,130
+blueviolet,blueviolet,#8A2BE2,138,43,226
+purple,purple,#9B30FF,155,48,255
+purple,purple,#912CEE,145,44,238
+purple,purple,#7D26CD,125,38,205
+purple,purple,#551A8B,85,26,139
+mediumpurple,mediumpurple,#9370DB,147,112,219
+mediumpurple 1,mediumpurple 1,#AB82FF,171,130,255
+mediumpurple 2,mediumpurple 2,#9F79EE,159,121,238
+mediumpurple 3,mediumpurple 3,#8968CD,137,104,205
+mediumpurple 4,mediumpurple 4,#5D478B,93,71,139
+darkslateblue,darkslateblue,#483D8B,72,61,139
+lightslateblue,lightslateblue,#8470FF,132,112,255
+mediumslateblue,mediumslateblue,#7B68EE,123,104,238
+slateblue,slateblue,#6A5ACD,106,90,205
+slateblue 1,slateblue 1,#836FFF,131,111,255
+slateblue 2,slateblue 2,#7A67EE,122,103,238
+slateblue 3,slateblue 3,#6959CD,105,89,205
+slateblue 4,slateblue 4,#473C8B,71,60,139
+ghostwhite,ghostwhite,#F8F8FF,248,248,255
+lavender,lavender,#E6E6FA,230,230,250
+blue*,blue*,#0000FF,0,0,255
+blue 2,blue 2,#0000EE,0,0,238
+blue 3 (mediumblue),blue 3 (mediumblue),#0000CD,0,0,205
+blue 4 (darkblue),blue 4 (darkblue),#00008B,0,0,139
+navy*,navy*,#000080,0,0,128
+midnightblue,midnightblue,#191970,25,25,112
+cobalt,cobalt,#3D59AB,61,89,171
+royalblue,royalblue,#4169E1,65,105,225
+royalblue 1,royalblue 1,#4876FF,72,118,255
+royalblue 2,royalblue 2,#436EEE,67,110,238
+royalblue 3,royalblue 3,#3A5FCD,58,95,205
+royalblue 4,royalblue 4,#27408B,39,64,139
+cornflowerblue,cornflowerblue,#6495ED,100,149,237
+lightsteelblue,lightsteelblue,#B0C4DE,176,196,222
+lightsteelblue 1,lightsteelblue 1,#CAE1FF,202,225,255
+lightsteelblue 2,lightsteelblue 2,#BCD2EE,188,210,238
+lightsteelblue 3,lightsteelblue 3,#A2B5CD,162,181,205
+lightsteelblue 4,lightsteelblue 4,#6E7B8B,110,123,139
+lightslategray,lightslategray,#778899,119,136,153
+slategray,slategray,#708090,112,128,144
+slategray 1,slategray 1,#C6E2FF,198,226,255
+slategray 2,slategray 2,#B9D3EE,185,211,238
+slategray 3,slategray 3,#9FB6CD,159,182,205
+slategray 4,slategray 4,#6C7B8B,108,123,139
+dodgerblue 1 (dodgerblue),dodgerblue 1 (dodgerblue),#1E90FF,30,144,255
+dodgerblue 2,dodgerblue 2,#1C86EE,28,134,238
+dodgerblue 3,dodgerblue 3,#1874CD,24,116,205
+dodgerblue 4,dodgerblue 4,#104E8B,16,78,139
+aliceblue,aliceblue,#F0F8FF,240,248,255
+steelblue,steelblue,#4682B4,70,130,180
+steelblue 1,steelblue 1,#63B8FF,99,184,255
+steelblue 2,steelblue 2,#5CACEE,92,172,238
+steelblue 3,steelblue 3,#4F94CD,79,148,205
+steelblue 4,steelblue 4,#36648B,54,100,139
+lightskyblue,lightskyblue,#87CEFA,135,206,250
+lightskyblue 1,lightskyblue 1,#B0E2FF,176,226,255
+lightskyblue 2,lightskyblue 2,#A4D3EE,164,211,238
+lightskyblue 3,lightskyblue 3,#8DB6CD,141,182,205
+lightskyblue 4,lightskyblue 4,#607B8B,96,123,139
+skyblue 1,skyblue 1,#87CEFF,135,206,255
+skyblue 2,skyblue 2,#7EC0EE,126,192,238
+skyblue 3,skyblue 3,#6CA6CD,108,166,205
+skyblue 4,skyblue 4,#4A708B,74,112,139
+skyblue,skyblue,#87CEEB,135,206,235
+deepskyblue 1 (deepskyblue),deepskyblue 1 (deepskyblue),#00BFFF,0,191,255
+deepskyblue 2,deepskyblue 2,#00B2EE,0,178,238
+deepskyblue 3,deepskyblue 3,#009ACD,0,154,205
+deepskyblue 4,deepskyblue 4,#00688B,0,104,139
+peacock,peacock,#33A1C9,51,161,201
+lightblue,lightblue,#ADD8E6,173,216,230
+lightblue 1,lightblue 1,#BFEFFF,191,239,255
+lightblue 2,lightblue 2,#B2DFEE,178,223,238
+lightblue 3,lightblue 3,#9AC0CD,154,192,205
+lightblue 4,lightblue 4,#68838B,104,131,139
+powderblue,powderblue,#B0E0E6,176,224,230
+cadetblue 1,cadetblue 1,#98F5FF,152,245,255
+cadetblue 2,cadetblue 2,#8EE5EE,142,229,238
+cadetblue 3,cadetblue 3,#7AC5CD,122,197,205
+cadetblue 4,cadetblue 4,#53868B,83,134,139
+turquoise 1,turquoise 1,#00F5FF,0,245,255
+turquoise 2,turquoise 2,#00E5EE,0,229,238
+turquoise 3,turquoise 3,#00C5CD,0,197,205
+turquoise 4,turquoise 4,#00868B,0,134,139
+cadetblue,cadetblue,#5F9EA0,95,158,160
+darkturquoise,darkturquoise,#00CED1,0,206,209
+azure 1 (azure),azure 1 (azure),#F0FFFF,240,255,255
+azure 2,azure 2,#E0EEEE,224,238,238
+azure 3,azure 3,#C1CDCD,193,205,205
+azure 4,azure 4,#838B8B,131,139,139
+lightcyan 1 (lightcyan),lightcyan 1 (lightcyan),#E0FFFF,224,255,255
+lightcyan 2,lightcyan 2,#D1EEEE,209,238,238
+lightcyan 3,lightcyan 3,#B4CDCD,180,205,205
+lightcyan 4,lightcyan 4,#7A8B8B,122,139,139
+paleturquoise 1,paleturquoise 1,#BBFFFF,187,255,255
+paleturquoise 2 (paleturquoise),paleturquoise 2 (paleturquoise),#AEEEEE,174,238,238
+paleturquoise 3,paleturquoise 3,#96CDCD,150,205,205
+paleturquoise 4,paleturquoise 4,#668B8B,102,139,139
+darkslategray,darkslategray,#2F4F4F,47,79,79
+darkslategray 1,darkslategray 1,#97FFFF,151,255,255
+darkslategray 2,darkslategray 2,#8DEEEE,141,238,238
+darkslategray 3,darkslategray 3,#79CDCD,121,205,205
+darkslategray 4,darkslategray 4,#528B8B,82,139,139
+cyan / aqua*,cyan / aqua*,#00FFFF,0,255,255
+cyan 2,cyan 2,#00EEEE,0,238,238
+cyan 3,cyan 3,#00CDCD,0,205,205
+cyan 4 (darkcyan),cyan 4 (darkcyan),#008B8B,0,139,139
+teal*,teal*,#008080,0,128,128
+mediumturquoise,mediumturquoise,#48D1CC,72,209,204
+lightseagreen,lightseagreen,#20B2AA,32,178,170
+manganeseblue,manganeseblue,#03A89E,3,168,158
+turquoise,turquoise,#40E0D0,64,224,208
+coldgrey,coldgrey,#808A87,128,138,135
+turquoiseblue,turquoiseblue,#00C78C,0,199,140
+aquamarine 1 (aquamarine),aquamarine 1 (aquamarine),#7FFFD4,127,255,212
+aquamarine 2,aquamarine 2,#76EEC6,118,238,198
+aquamarine 3 (mediumaquamarine),aquamarine 3 (mediumaquamarine),#66CDAA,102,205,170
+aquamarine 4,aquamarine 4,#458B74,69,139,116
+mediumspringgreen,mediumspringgreen,#00FA9A,0,250,154
+mintcream,mintcream,#F5FFFA,245,255,250
+springgreen,springgreen,#00FF7F,0,255,127
+springgreen 1,springgreen 1,#00EE76,0,238,118
+springgreen 2,springgreen 2,#00CD66,0,205,102
+springgreen 3,springgreen 3,#008B45,0,139,69
+mediumseagreen,mediumseagreen,#3CB371,60,179,113
+seagreen 1,seagreen 1,#54FF9F,84,255,159
+seagreen 2,seagreen 2,#4EEE94,78,238,148
+seagreen 3,seagreen 3,#43CD80,67,205,128
+seagreen 4 (seagreen),seagreen 4 (seagreen),#2E8B57,46,139,87
+emeraldgreen,emeraldgreen,#00C957,0,201,87
+mint,mint,#BDFCC9,189,252,201
+cobaltgreen,cobaltgreen,#3D9140,61,145,64
+honeydew 1 (honeydew),honeydew 1 (honeydew),#F0FFF0,240,255,240
+honeydew 2,honeydew 2,#E0EEE0,224,238,224
+honeydew 3,honeydew 3,#C1CDC1,193,205,193
+honeydew 4,honeydew 4,#838B83,131,139,131
+darkseagreen,darkseagreen,#8FBC8F,143,188,143
+darkseagreen 1,darkseagreen 1,#C1FFC1,193,255,193
+darkseagreen 2,darkseagreen 2,#B4EEB4,180,238,180
+darkseagreen 3,darkseagreen 3,#9BCD9B,155,205,155
+darkseagreen 4,darkseagreen 4,#698B69,105,139,105
+palegreen,palegreen,#98FB98,152,251,152
+palegreen 1,palegreen 1,#9AFF9A,154,255,154
+palegreen 2 (lightgreen),palegreen 2 (lightgreen),#90EE90,144,238,144
+palegreen 3,palegreen 3,#7CCD7C,124,205,124
+palegreen 4,palegreen 4,#548B54,84,139,84
+limegreen,limegreen,#32CD32,50,205,50
+forestgreen,forestgreen,#228B22,34,139,34
+green 1 (lime*),green 1 (lime*),#00FF00,0,255,0
+green 2,green 2,#00EE00,0,238,0
+green 3,green 3,#00CD00,0,205,0
+green 4,green 4,#008B00,0,139,0
+green*,green*,#008000,0,128,0
+darkgreen,darkgreen,#006400,0,100,0
+sapgreen,sapgreen,#308014,48,128,20
+lawngreen,lawngreen,#7CFC00,124,252,0
+chartreuse 1 (chartreuse),chartreuse 1 (chartreuse),#7FFF00,127,255,0
+chartreuse 2,chartreuse 2,#76EE00,118,238,0
+chartreuse 3,chartreuse 3,#66CD00,102,205,0
+chartreuse 4,chartreuse 4,#458B00,69,139,0
+greenyellow,greenyellow,#ADFF2F,173,255,47
+darkolivegreen 1,darkolivegreen 1,#CAFF70,202,255,112
+darkolivegreen 2,darkolivegreen 2,#BCEE68,188,238,104
+darkolivegreen 3,darkolivegreen 3,#A2CD5A,162,205,90
+darkolivegreen 4,darkolivegreen 4,#6E8B3D,110,139,61
+darkolivegreen,darkolivegreen,#556B2F,85,107,47
+olivedrab,olivedrab,#6B8E23,107,142,35
+olivedrab 1,olivedrab 1,#C0FF3E,192,255,62
+olivedrab 2,olivedrab 2,#B3EE3A,179,238,58
+olivedrab 3 (yellowgreen),olivedrab 3 (yellowgreen),#9ACD32,154,205,50
+olivedrab 4,olivedrab 4,#698B22,105,139,34
+ivory 1 (ivory),ivory 1 (ivory),#FFFFF0,255,255,240
+ivory 2,ivory 2,#EEEEE0,238,238,224
+ivory 3,ivory 3,#CDCDC1,205,205,193
+ivory 4,ivory 4,#8B8B83,139,139,131
+beige,beige,#F5F5DC,245,245,220
+lightyellow 1 (lightyellow),lightyellow 1 (lightyellow),#FFFFE0,255,255,224
+lightyellow 2,lightyellow 2,#EEEED1,238,238,209
+lightyellow 3,lightyellow 3,#CDCDB4,205,205,180
+lightyellow 4,lightyellow 4,#8B8B7A,139,139,122
+lightgoldenrodyellow,lightgoldenrodyellow,#FAFAD2,250,250,210
+yellow 1 (yellow*),yellow 1 (yellow*),#FFFF00,255,255,0
+yellow 2,yellow 2,#EEEE00,238,238,0
+yellow 3,yellow 3,#CDCD00,205,205,0
+yellow 4,yellow 4,#8B8B00,139,139,0
+warmgrey,warmgrey,#808069,128,128,105
+olive*,olive*,#808000,128,128,0
+darkkhaki,darkkhaki,#BDB76B,189,183,107
+khaki 1,khaki 1,#FFF68F,255,246,143
+khaki 2,khaki 2,#EEE685,238,230,133
+khaki 3,khaki 3,#CDC673,205,198,115
+khaki 4,khaki 4,#8B864E,139,134,78
+khaki,khaki,#F0E68C,240,230,140
+palegoldenrod,palegoldenrod,#EEE8AA,238,232,170
+lemonchiffon 1 (lemonchiffon),lemonchiffon 1 (lemonchiffon),#FFFACD,255,250,205
+lemonchiffon 2,lemonchiffon 2,#EEE9BF,238,233,191
+lemonchiffon 3,lemonchiffon 3,#CDC9A5,205,201,165
+lemonchiffon 4,lemonchiffon 4,#8B8970,139,137,112
+lightgoldenrod 1,lightgoldenrod 1,#FFEC8B,255,236,139
+lightgoldenrod 2,lightgoldenrod 2,#EEDC82,238,220,130
+lightgoldenrod 3,lightgoldenrod 3,#CDBE70,205,190,112
+lightgoldenrod 4,lightgoldenrod 4,#8B814C,139,129,76
+banana,banana,#E3CF57,227,207,87
+gold 1 (gold),gold 1 (gold),#FFD700,255,215,0
+gold 2,gold 2,#EEC900,238,201,0
+gold 3,gold 3,#CDAD00,205,173,0
+gold 4,gold 4,#8B7500,139,117,0
+cornsilk 1 (cornsilk),cornsilk 1 (cornsilk),#FFF8DC,255,248,220
+cornsilk 2,cornsilk 2,#EEE8CD,238,232,205
+cornsilk 3,cornsilk 3,#CDC8B1,205,200,177
+cornsilk 4,cornsilk 4,#8B8878,139,136,120
+goldenrod,goldenrod,#DAA520,218,165,32
+goldenrod 1,goldenrod 1,#FFC125,255,193,37
+goldenrod 2,goldenrod 2,#EEB422,238,180,34
+goldenrod 3,goldenrod 3,#CD9B1D,205,155,29
+goldenrod 4,goldenrod 4,#8B6914,139,105,20
+darkgoldenrod,darkgoldenrod,#B8860B,184,134,11
+darkgoldenrod 1,darkgoldenrod 1,#FFB90F,255,185,15
+darkgoldenrod 2,darkgoldenrod 2,#EEAD0E,238,173,14
+darkgoldenrod 3,darkgoldenrod 3,#CD950C,205,149,12
+darkgoldenrod 4,darkgoldenrod 4,#8B6508,139,101,8
+orange,orange,#FFA500,255,165,0
+orange,orange,#EE9A00,238,154,0
+orange,orange,#CD8500,205,133,0
+orange,orange,#8B5A00,139,90,0
+floralwhite,floralwhite,#FFFAF0,255,250,240
+oldlace,oldlace,#FDF5E6,253,245,230
+wheat,wheat,#F5DEB3,245,222,179
+wheat 1,wheat 1,#FFE7BA,255,231,186
+wheat 2,wheat 2,#EED8AE,238,216,174
+wheat 3,wheat 3,#CDBA96,205,186,150
+wheat 4,wheat 4,#8B7E66,139,126,102
+moccasin,moccasin,#FFE4B5,255,228,181
+papayawhip,papayawhip,#FFEFD5,255,239,213
+blanchedalmond,blanchedalmond,#FFEBCD,255,235,205
+navajowhite 1 (navajowhite),navajowhite 1 (navajowhite),#FFDEAD,255,222,173
+navajowhite 2,navajowhite 2,#EECFA1,238,207,161
+navajowhite 3,navajowhite 3,#CDB38B,205,179,139
+navajowhite 4,navajowhite 4,#8B795E,139,121,94
+eggshell,eggshell,#FCE6C9,252,230,201
+tan,tan,#D2B48C,210,180,140
+brick,brick,#9C661F,156,102,31
+cadmiumyellow,cadmiumyellow,#FF9912,255,153,18
+antiquewhite,antiquewhite,#FAEBD7,250,235,215
+antiquewhite 1,antiquewhite 1,#FFEFDB,255,239,219
+antiquewhite 2,antiquewhite 2,#EEDFCC,238,223,204
+antiquewhite 3,antiquewhite 3,#CDC0B0,205,192,176
+antiquewhite 4,antiquewhite 4,#8B8378,139,131,120
+burlywood,burlywood,#DEB887,222,184,135
+burlywood 1,burlywood 1,#FFD39B,255,211,155
+burlywood 2,burlywood 2,#EEC591,238,197,145
+burlywood 3,burlywood 3,#CDAA7D,205,170,125
+burlywood 4,burlywood 4,#8B7355,139,115,85
+bisque 1 (bisque),bisque 1 (bisque),#FFE4C4,255,228,196
+bisque 2,bisque 2,#EED5B7,238,213,183
+bisque 3,bisque 3,#CDB79E,205,183,158
+bisque 4,bisque 4,#8B7D6B,139,125,107
+melon,melon,#E3A869,227,168,105
+carrot,carrot,#ED9121,237,145,33
+darkorange,darkorange,#FF8C00,255,140,0
+darkorange 1,darkorange 1,#FF7F00,255,127,0
+darkorange 2,darkorange 2,#EE7600,238,118,0
+darkorange 3,darkorange 3,#CD6600,205,102,0
+darkorange 4,darkorange 4,#8B4500,139,69,0
+orange,orange,#FF8000,255,128,0
+tan 1,tan 1,#FFA54F,255,165,79
+tan 2,tan 2,#EE9A49,238,154,73
+tan 3 (peru),tan 3 (peru),#CD853F,205,133,63
+tan 4,tan 4,#8B5A2B,139,90,43
+linen,linen,#FAF0E6,250,240,230
+peachpuff 1 (peachpuff),peachpuff 1 (peachpuff),#FFDAB9,255,218,185
+peachpuff 2,peachpuff 2,#EECBAD,238,203,173
+peachpuff 3,peachpuff 3,#CDAF95,205,175,149
+peachpuff 4,peachpuff 4,#8B7765,139,119,101
+seashell 1 (seashell),seashell 1 (seashell),#FFF5EE,255,245,238
+seashell 2,seashell 2,#EEE5DE,238,229,222
+seashell 3,seashell 3,#CDC5BF,205,197,191
+seashell 4,seashell 4,#8B8682,139,134,130
+sandybrown,sandybrown,#F4A460,244,164,96
+rawsienna,rawsienna,#C76114,199,97,20
+chocolate,chocolate,#D2691E,210,105,30
+chocolate 1,chocolate 1,#FF7F24,255,127,36
+chocolate 2,chocolate 2,#EE7621,238,118,33
+chocolate 3,chocolate 3,#CD661D,205,102,29
+chocolate 4 (saddlebrown),chocolate 4 (saddlebrown),#8B4513,139,69,19
+ivoryblack,ivoryblack,#292421,41,36,33
+flesh,flesh,#FF7D40,255,125,64
+cadmiumorange,cadmiumorange,#FF6103,255,97,3
+burntsienna,burntsienna,#8A360F,138,54,15
+sienna,sienna,#A0522D,160,82,45
+sienna 1,sienna 1,#FF8247,255,130,71
+sienna 2,sienna 2,#EE7942,238,121,66
+sienna 3,sienna 3,#CD6839,205,104,57
+sienna 4,sienna 4,#8B4726,139,71,38
+lightsalmon 1 (lightsalmon),lightsalmon 1 (lightsalmon),#FFA07A,255,160,122
+lightsalmon 2,lightsalmon 2,#EE9572,238,149,114
+lightsalmon 3,lightsalmon 3,#CD8162,205,129,98
+lightsalmon 4,lightsalmon 4,#8B5742,139,87,66
+coral,coral,#FF7F50,255,127,80
+orangered 1 (orangered),orangered 1 (orangered),#FF4500,255,69,0
+orangered 2,orangered 2,#EE4000,238,64,0
+orangered 3,orangered 3,#CD3700,205,55,0
+orangered 4,orangered 4,#8B2500,139,37,0
+sepia,sepia,#5E2612,94,38,18
+darksalmon,darksalmon,#E9967A,233,150,122
+salmon 1,salmon 1,#FF8C69,255,140,105
+salmon 2,salmon 2,#EE8262,238,130,98
+salmon 3,salmon 3,#CD7054,205,112,84
+salmon 4,salmon 4,#8B4C39,139,76,57
+coral 1,coral 1,#FF7256,255,114,86
+coral 2,coral 2,#EE6A50,238,106,80
+coral 3,coral 3,#CD5B45,205,91,69
+coral 4,coral 4,#8B3E2F,139,62,47
+burntumber,burntumber,#8A3324,138,51,36
+tomato 1 (tomato),tomato 1 (tomato),#FF6347,255,99,71
+tomato 2,tomato 2,#EE5C42,238,92,66
+tomato 3,tomato 3,#CD4F39,205,79,57
+tomato 4,tomato 4,#8B3626,139,54,38
+salmon,salmon,#FA8072,250,128,114
+mistyrose 1 (mistyrose),mistyrose 1 (mistyrose),#FFE4E1,255,228,225
+mistyrose 2,mistyrose 2,#EED5D2,238,213,210
+mistyrose 3,mistyrose 3,#CDB7B5,205,183,181
+mistyrose 4,mistyrose 4,#8B7D7B,139,125,123
+snow 1 (snow),snow 1 (snow),#FFFAFA,255,250,250
+snow 2,snow 2,#EEE9E9,238,233,233
+snow 3,snow 3,#CDC9C9,205,201,201
+snow 4,snow 4,#8B8989,139,137,137
+rosybrown,rosybrown,#BC8F8F,188,143,143
+rosybrown 1,rosybrown 1,#FFC1C1,255,193,193
+rosybrown 2,rosybrown 2,#EEB4B4,238,180,180
+rosybrown 3,rosybrown 3,#CD9B9B,205,155,155
+rosybrown 4,rosybrown 4,#8B6969,139,105,105
+lightcoral,lightcoral,#F08080,240,128,128
+red,red,#CD5C5C,205,92,92
+red,red,#FF6A6A,255,106,106
+red,red,#EE6363,238,99,99
+red,red,#8B3A3A,139,58,58
+red,red,#CD5555,205,85,85
+brown,brown,#A52A2A,165,42,42
+brown,brown,#FF4040,255,64,64
+brown,brown,#EE3B3B,238,59,59
+brown,brown,#CD3333,205,51,51
+brown,brown,#8B2323,139,35,35
+firebrick,firebrick,#B22222,178,34,34
+firebrick,firebrick,#FF3030,255,48,48
+firebrick,firebrick,#EE2C2C,238,44,44
+firebrick,firebrick,#CD2626,205,38,38
+firebrick,firebrick,#8B1A1A,139,26,26
+red,red,#FF0000,255,0,0
+red,red,#EE0000,238,0,0
+red,red,#CD0000,205,0,0
+red,red,#8B0000,139,0,0
+maroon,maroon,#800000,128,0,0
+sgi beet,sgi beet,#8E388E,142,56,142
+sgi slateblue,sgi slateblue,#7171C6,113,113,198
+sgi lightblue,sgi lightblue,#7D9EC0,125,158,192
+sgi teal,sgi teal,#388E8E,56,142,142
+sgi chartreuse,sgi chartreuse,#71C671,113,198,113
+sgi olivedrab,sgi olivedrab,#8E8E38,142,142,56
+sgi brightgray,sgi brightgray,#C5C1AA,197,193,170
+sgi salmon,sgi salmon,#C67171,198,113,113
+White,White,#555555,85,85,85
+gray,gray,#1E1E1E,30,30,30
+gray,gray,#282828,40,40,40
+gray,gray,#515151,81,81,81
+White,White,#5B5B5B,91,91,91
+White,White,#848484,132,132,132
+White,White,#8E8E8E,142,142,142
+White,White,#AAAAAA,170,170,170
+White,White,#B7B7B7,183,183,183
+White,White,#C1C1C1,193,193,193
+White,White,#EAEAEA,234,234,234
+White,White,#F4F4F4,244,244,244
+White,White,#FFFFFF,255,255,255
+White,White,#F5F5F5,245,245,245
+White,White,#DCDCDC,220,220,220
+White,White,#D3D3D3,211,211,211
+White,White,#C0C0C0,192,192,192
+White,White,#A9A9A9,169,169,169
+White,White,#808080,128,128,128
+White,White,#696969,105,105,105
+black,black,#000000,0,0,0
+White,White,#FCFCFC,252,252,252
+White,White,#FAFAFA,250,250,250
+White,White,#F7F7F7,247,247,247
+White,White,#F5F5F5,245,245,245
+White,White,#F2F2F2,242,242,242
+White,White,#F0F0F0,240,240,240
+White,White,#EDEDED,237,237,237
+White,White,#EBEBEB,235,235,235
+White,White,#E8E8E8,232,232,232
+White,White,#E5E5E5,229,229,229
+White,White,#E3E3E3,227,227,227
+White,White,#E0E0E0,224,224,224
+White,White,#DEDEDE,222,222,222
+White,White,#DBDBDB,219,219,219
+White,White,#D9D9D9,217,217,217
+White,White,#D6D6D6,214,214,214
+White,White,#D4D4D4,212,212,212
+White,White,#D1D1D1,209,209,209
+White,White,#CFCFCF,207,207,207
+White,White,#CCCCCC,204,204,204
+White,White,#C9C9C9,201,201,201
+White,White,#C7C7C7,199,199,199
+White,White,#C4C4C4,196,196,196
+White,White,#C2C2C2,194,194,194
+White,White,#BFBFBF,191,191,191
+White,White,#BDBDBD,189,189,189
+White,White,#BABABA,186,186,186
+White,White,#B8B8B8,184,184,184
+White,White,#B5B5B5,181,181,181
+White,White,#B3B3B3,179,179,179
+White,White,#B0B0B0,176,176,176
+White,White,#ADADAD,173,173,173
+White,White,#ABABAB,171,171,171
+White,White,#A8A8A8,168,168,168
+White,White,#A6A6A6,166,166,166
+White,White,#A3A3A3,163,163,163
+White,White,#A1A1A1,161,161,161
+White,White,#9E9E9E,158,158,158
+White,White,#9C9C9C,156,156,156
+White,White,#999999,153,153,153
+White,White,#969696,150,150,150
+White,White,#949494,148,148,148
+White,White,#919191,145,145,145
+White,White,#8F8F8F,143,143,143
+White,White,#8C8C8C,140,140,140
+White,White,#8A8A8A,138,138,138
+White,White,#878787,135,135,135
+White,White,#858585,133,133,133
+White,White,#828282,130,130,130
+White,White,#7F7F7F,127,127,127
+White,White,#7D7D7D,125,125,125
+White,White,#7A7A7A,122,122,122
+White,White,#787878,120,120,120
+White,White,#757575,117,117,117
+White,White,#737373,115,115,115
+White,White,#707070,112,112,112
+White,White,#6E6E6E,110,110,110
+White,White,#6B6B6B,107,107,107
+White,White,#696969,105,105,105
+White,White,#666666,102,102,102
+White,White,#636363,99,99,99
+White,White,#616161,97,97,97
+White,White,#5E5E5E,94,94,94
+White,White,#5C5C5C,92,92,92
+White,White,#595959,89,89,89
+White,White,#575757,87,87,87
+White,White,#545454,84,84,84
+gray,gray,#525252,82,82,82
+gray,gray,#4F4F4F,79,79,79
+gray,gray,#4D4D4D,77,77,77
+gray,gray,#4A4A4A,74,74,74
+gray,gray,#474747,71,71,71
+gray,gray,#454545,69,69,69
+gray,gray,#424242,66,66,66
+gray,gray,#404040,64,64,64
+gray,gray,#3D3D3D,61,61,61
+gray,gray,#3B3B3B,59,59,59
+gray,gray,#383838,56,56,56
+gray,gray,#363636,54,54,54
+gray,gray,#333333,51,51,51
+gray,gray,#303030,48,48,48
+gray,gray,#2E2E2E,46,46,46
+gray,gray,#2B2B2B,43,43,43
+gray,gray,#292929,41,41,41
+gray,gray,#262626,38,38,38
+gray,gray,#242424,36,36,36
+gray,gray,#212121,33,33,33
+gray,gray,#1F1F1F,31,31,31
+gray,gray,#1C1C1C,28,28,28
+gray,gray,#1A1A1A,26,26,26
+gray,gray,#171717,23,23,23
+gray,gray,#141414,20,20,20
+gray,gray,#121212,18,18,18
+gray,gray,#0F0F0F,15,15,15
+gray,gray,#0D0D0D,13,13,13
+Dark gray,Dark gray,#0A0A0A,10,10,10
+Black,Black,#080808,8,8,8
+Black,Black,#050505,5,5,5
+Black,Black,#030303,3,3,3
